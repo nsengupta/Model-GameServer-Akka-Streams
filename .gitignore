@@ -1,0 +1,4 @@
+*.sc
+*.class
+.idea
+target/
